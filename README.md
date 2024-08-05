@@ -1,1 +1,1 @@
-# Real-time-face-det-and-recog
+# real-time-face-detection-and-recognition
